@@ -1,5 +1,5 @@
 # DeepLearning.AI-TensorFlow-Developer-Course       <a href="https://trackgit.com">
-  CODECOV_TOKEN='8c7815ed-eb77-40f0-b10c-9166669d2417'
+ 
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/km28c7uw39328ia9fgik" alt="trackgit-views" />
 </a>
 
