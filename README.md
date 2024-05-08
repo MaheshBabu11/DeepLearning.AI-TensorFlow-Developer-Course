@@ -7,11 +7,19 @@
 **[DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)**
 
 
-**Instructor** : `Laurence Moroney`
+**Instructor**: `Laurence Moroney`
 
 
 All course Notebooks can be found [here](https://github.com/lmoroney/dlaicourse).
 
 <kbd><img src="https://github.com/MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course/blob/main/DeepLearning.AI%20TensorFlow%20Developer%20Course%20Certificate.png" /></kbd>
 
+## Star History
 
+<a href="https://star-history.com/#MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course&type=Date" />
+ </picture>
+</a>
