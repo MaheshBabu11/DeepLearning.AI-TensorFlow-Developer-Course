@@ -23,3 +23,7 @@ All course Notebooks can be found [here](https://github.com/lmoroney/dlaicourse)
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course&type=Date" />
  </picture>
 </a>
+
+## Stargazers
+
+[![Stargazers repo roster for @MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course](https://reporoster.com/stars/dark/MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course)](https://github.com/MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course/stargazers)
